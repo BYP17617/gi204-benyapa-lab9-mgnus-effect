@@ -1,0 +1,9 @@
+Pucblic class Hello : 
+{
+    
+    Void Start()
+    {
+     Debug,Log[message"Hello World");
+    }
+
+}
