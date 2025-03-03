@@ -1,9 +1,13 @@
-Pucblic class Hello : 
+using System.Collections;
+using System.Collections.Gereric;
+using Unity Engine;
+
+pucblic class Hello : MonoBehavior
 {
     
     void Start()
     {
-     Debug,Log[message"Hello World");
+         Debug,Log[message"Hello World");
     }
 
     void Update()
